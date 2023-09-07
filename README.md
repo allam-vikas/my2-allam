@@ -19,7 +19,7 @@
 * Dosa
 * Anando Dum Biryani
 
-[MyStats]("C:\Users\S566460\Documents\GitHub\my2-allam\MyStats.md")
+[MyStats](C:\Users\S566460\Documents\GitHub\my2-allam\MyStats.md)
 
 ---
 
