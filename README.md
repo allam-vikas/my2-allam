@@ -13,6 +13,12 @@
  2. Nandi Hills
  3. Banglore Palace
 
+### Dishes
+
+* Vivipuram food
+* Dosa
+* Anando Dum Biryani
+
 
 
 
