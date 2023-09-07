@@ -32,6 +32,16 @@
 |Golf|Peacefull Game|20|
 
 
+---
+
+# Quotes
+
+>“We live in a society exquisitely dependent on science and technology, in which hardly anyone knows anything about science and technology.” – *Carl Sagan*
+
+>“Everything is theoretically impossible until it is done.” – *Robert A. Heinlein*
+
+
+
 
 
 
