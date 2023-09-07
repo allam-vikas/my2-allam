@@ -21,6 +21,17 @@
 
 [MyStats]("C:\Users\S566460\Documents\GitHub\my2-allam\MyStats.md")
 
+---
+
+### Sports
+|Name|Reason|Average Hours in Week|
+|---|---|:---:|
+|Cricket|Helps us to be Physically Fit|8|
+|FootBall|Team Work and Thinking|9|
+|Basket Ball|Played by any age People|15|
+|Golf|Peacefull Game|20|
+
+
 
 
 
